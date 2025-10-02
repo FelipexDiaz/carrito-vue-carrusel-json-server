@@ -1,0 +1,70 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Laptop Gamer",
+      "precio": 2500,
+      "imagen": "https://picsum.photos/id/180/200/150",
+      "stock": 4,
+      "descripcion": "Laptop potente para gaming con procesador i7 y tarjeta gráfica dedicada.",
+      "oferta": true
+    },
+    {
+      "id": "2",
+      "nombre": "Smartphone",
+      "precio": 800,
+      "imagen": "https://picsum.photos/id/1/200/150",
+      "stock": 3,
+      "descripcion": "Teléfono inteligente con pantalla AMOLED y cámara de 108MP.",
+      "oferta": false
+    },
+    {
+      "id": "3",
+      "nombre": "Auriculares Bluetooth",
+      "precio": 150,
+      "imagen": "https://picsum.photos/id/1080/200/150",
+      "stock": 12,
+      "descripcion": "Auriculares inalámbricos con cancelación activa de ruido.",
+      "oferta": true
+    },
+    {
+      "id": "4",
+      "nombre": "Teclado Mecánico",
+      "precio": 120,
+      "imagen": "https://picsum.photos/id/1011/200/150",
+      "stock": 8,
+      "descripcion": "Teclado mecánico RGB con switches Cherry MX.",
+      "oferta": false
+    },
+    {
+      "id": "5",
+      "nombre": "Monitor 27\" 4K",
+      "precio": 450,
+      "imagen": "https://picsum.photos/id/1050/200/150",
+      "stock": 6,
+      "descripcion": "Monitor 4K UHD con alta tasa de refresco de 144Hz.",
+      "oferta": true
+    },
+    {
+      "id": "6",
+      "nombre": "Mouse Gaming",
+      "precio": 60,
+      "imagen": "https://picsum.photos/id/1062/200/150",
+      "stock": 15,
+      "descripcion": "Mouse ergonómico para gaming con 16,000 DPI y RGB.",
+      "oferta": false
+    }
+  ],
+  "carrito": [
+    {
+      "id": "1",
+      "nombre": "Laptop Gamer",
+      "precio": 2500,
+      "imagen": "https://picsum.photos/id/180/200/150",
+      "stock": 4,
+      "descripcion": "Laptop potente para gaming con procesador i7 y tarjeta gráfica dedicada.",
+      "oferta": true,
+      "cantidad": 1
+    }
+  ]
+}
